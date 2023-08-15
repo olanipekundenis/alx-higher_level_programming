@@ -1,4 +1,3 @@
-0x06 Python Classes and Objects 
+0x08 python more classes
 
-This teaches how to write python classes using class keyword and creating new instances
-which is the objects 
+Solutions to classes and object problems in .py
